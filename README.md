@@ -8,6 +8,8 @@ The files were extracted from the tape image using the [itstar program](https://
 
 The [```~~~gsb```](../main/zork/~~~gsb) directory contains the source code for the game. Some of the files are encrypted as found in the original tape image.
 
+Files outside of the ```~~~gsb``` directory are decrypted versions of the corresponding files found within. They were decrypted recently and added here for ease of access.
+
 ### [codemeta.json](../main/codemeta.json)
 This file is metadata about the Zork files, using the [CodeMeta Project](https://codemeta.github.io/) schema.
 ### [README.md](../main/README.md)
@@ -16,7 +18,7 @@ This file is the readme detailing the content and context for this repository.
 A file tree listing the files in the [```zork```](../main/zork) directory showing the original file timestamps as extracted from the tape image.
 
 ## Preferred Citation
-[filename], Zork source code, 1978 April, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts. [swh:1:dir:9973a3b0378b7690d2ea46eca2a740b955b9fdbe](https://archive.softwareheritage.org/swh:1:dir:9973a3b0378b7690d2ea46eca2a740b955b9fdbe/)
+[filename], Zork source code, 1978 April, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts.
 ## Rights
 The ownership status of these files is not entirely clear. To the extent that MIT holds rights in these files, we are happy to support their broad public use.  Any questions about permissions should be directed to [permissions-lib@mit.edu](mailto:permissions-lib@mit.edu)
 ## Acknowledgements
