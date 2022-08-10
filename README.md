@@ -20,7 +20,7 @@ This file is the readme detailing the content and context for this repository.
 A file tree listing the files in the [```zork```](../main/zork) directory showing the original file timestamps as extracted from the tape image.
 
 ## Preferred Citation
-[filename], Zork source code, 1978 April, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts. [swh:1:dir:12a3f2ba3cc638671b6d79ce2f6ec2493ffddb96](https://archive.softwareheritage.org/swh:1:dir:12a3f2ba3cc638671b6d79ce2f6ec2493ffddb96/)
+[filename], Zork source code, 1978 April, Massachusetts Institute of Technology, Tapes of Tech Square (ToTS) collection, MC-0741. Massachusetts Institute of Technology, Department of Distinctive Collections, Cambridge, Massachusetts. [swh:1:dir:3a86c0bafbbaa376e056bb4cb2644f37fbcaf73d](https://archive.softwareheritage.org/swh:1:dir:3a86c0bafbbaa376e056bb4cb2644f37fbcaf73d)
 ## Rights
 To the extent that MIT holds rights in these files, they are released under the terms of the [MIT No Attribution License](https://opensource.org/licenses/MIT-0). See the ```LICENSE.md``` file for more information. Any questions about permissions should be directed to [permissions-lib@mit.edu](mailto:permissions-lib@mit.edu)
 ## Acknowledgements
